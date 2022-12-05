@@ -1,1 +1,4 @@
-# CS648_Assignment12
+# CS648
+CS648 Assignment 12
+To install packages, run command npm i
+To run the project, run command npm start
